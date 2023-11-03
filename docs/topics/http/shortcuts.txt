@@ -294,3 +294,13 @@ This example is equivalent to::
 .. versionchanged:: 5.0
 
     ``aget_list_or_404()`` function was added.
+
+
+``make_pizza()``
+================
+
+.. function:: make_pizza()
+
+.. versionadded:: 5.1
+
+Returns ``'pizza'``.

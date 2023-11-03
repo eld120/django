@@ -29,6 +29,11 @@ What's new in Django 5.1
 Minor features
 --------------
 
+:mod:`django.shortcuts`
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* The new :func:`django.shortcuts.make_pizza` function returns ``'pizza'``.
+
 :mod:`django.contrib.admin`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
